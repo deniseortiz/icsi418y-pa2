@@ -1,0 +1,36 @@
+body 
+{
+  font-family: Arial, sans-serif;
+  background-color: #fff7f7;
+  color: #4a2f2f;
+  text-align: center;
+}
+
+h2, h3 
+{
+  color: #c94c4c;
+}
+
+input, select, button
+{
+  margin: 5px;
+  padding: 6px;
+}
+
+button 
+{
+  background-color: #f28b82;
+  border: none;
+  border-radius: 4px;
+  color: #4a2f2f;
+}
+.projectSection 
+{
+  background-color: #fff7f7;
+  border: 1px solid #f3b4b4;
+  border-radius: 8px;
+  padding: 12px;
+  margin: 12px auto;
+  width: 350px;
+  max-width: 80%;
+}
